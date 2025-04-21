@@ -1,4 +1,4 @@
-<p>We Care</p>
+<h1>We Care</h1>
 <br>
 <p>Projeto realizado para aperfeiçoar os conhecimentos das propriedades de CSS no <a href="https://rodolfomori.com.br/">Devclub</a></p>
 <p>Utilizado as ferramentas</p>
